@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Wolf Howl " ] },
+    "summary": { "en": [ ".wav of a wolf howling recorded in a app" ] },
+    "items": [
+    ]
+}
